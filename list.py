@@ -49,7 +49,7 @@ lists.reverse()
 print(lists)
 
 """
- For index, if element passe as an argument then use curly braces "()" and pass element to it,
+ For index, if element passes as an argument then use curly braces "()" and pass element to it,
  it will give index number of that element, in order to get the element at the index, use square braces "[]"
  it will give output as an element
 """
